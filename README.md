@@ -9,5 +9,7 @@ So I can edit from my laptop as well.
 
 So you have to create a branch before editing.  Then commit.
 
-This commit is to be on this branch (which I create/switch to first) edit this file, then commit to origin.
+This commit is to be on this branch (which I create/switch to first), edit this file, then commit to origin.
+
+Now this branch is strictly for editing before placed into the master.
 
