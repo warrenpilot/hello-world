@@ -5,4 +5,7 @@ OK, so let's see if this can be a good place to start planning what projects I w
 
 This looks like it is working well as a place to write stuff down.
 
-So I can edit from my laptop as well
+So I can edit from my laptop as well.
+
+So you have to create a branch before editing.  Then commit.
+
