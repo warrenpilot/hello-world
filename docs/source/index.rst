@@ -6,11 +6,15 @@
 Welcome to hello-world's documentation!
 =======================================
 
+For quick start:
+
+    from pyfpa import fpa
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-				usage/installation
-				usage/quickstart
+   usage/installation
+   usage/quickstart
 
 
 
